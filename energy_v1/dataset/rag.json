@@ -1,0 +1,962 @@
+[
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The university will remain closed on 15 August for Independence Day.",
+    "instruction": "Will MIT WPU be closed on Independence Day?",
+    "output": "The university will remain closed on 15 August for Independence Day."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The university will remain closed on 15 August for Independence Day.",
+    "instruction": "Is MIT WPU closed on 15 August?",
+    "output": "The university will remain closed on 15 August for Independence Day."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The university will remain closed on 15 August for Independence Day.",
+    "instruction": "Is there a holiday on 15 August?",
+    "output": "The university will remain closed on 15 August for Independence Day."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The university will remain closed on 15 August for Independence Day.",
+    "instruction": "Will the university be open on Independence Day?",
+    "output": "The university will remain closed on 15 August for Independence Day."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The university will remain closed on 15 August for Independence Day.",
+    "instruction": "What is the holiday on 15 August?",
+    "output": "The university will remain closed on 15 August for Independence Day."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The university will remain closed on 15 August for Independence Day.",
+    "instruction": "Is 15 August a working day?",
+    "output": "The university will remain closed on 15 August for Independence Day."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The university will remain closed on 15 August for Independence Day.",
+    "instruction": "Tell me about the holiday on 15 August",
+    "output": "The university will remain closed on 15 August for Independence Day."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The university will remain closed on 15 August for Independence Day.",
+    "instruction": "Is Independence Day a holiday at MIT WPU?",
+    "output": "The university will remain closed on 15 August for Independence Day."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The university will remain closed on 15 August for Independence Day.",
+    "instruction": "Will classes be held on 15 August?",
+    "output": "The university will remain closed on 15 August for Independence Day."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The university will remain closed on 15 August for Independence Day.",
+    "instruction": "What's the schedule for 15 August?",
+    "output": "The university will remain closed on 15 August for Independence Day."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The B.Tech CSE mid-semester examinations will begin on 12 March.",
+    "instruction": "When will the BTech CSE mid semester exams start?",
+    "output": "The B.Tech CSE mid-semester examinations will begin on 12 March."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The B.Tech CSE mid-semester examinations will begin on 12 March.",
+    "instruction": "When do mid semester exams begin for BTech CSE?",
+    "output": "The B.Tech CSE mid-semester examinations will begin on 12 March."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The B.Tech CSE mid-semester examinations will begin on 12 March.",
+    "instruction": "What is the exam start date for BTech CSE?",
+    "output": "The B.Tech CSE mid-semester examinations will begin on 12 March."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The B.Tech CSE mid-semester examinations will begin on 12 March.",
+    "instruction": "When are CSE mid-term exams starting?",
+    "output": "The B.Tech CSE mid-semester examinations will begin on 12 March."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The B.Tech CSE mid-semester examinations will begin on 12 March.",
+    "instruction": "Tell me the exam schedule for CSE",
+    "output": "The B.Tech CSE mid-semester examinations will begin on 12 March."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The B.Tech CSE mid-semester examinations will begin on 12 March.",
+    "instruction": "What's the date for mid-sem exams?",
+    "output": "The B.Tech CSE mid-semester examinations will begin on 12 March."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The B.Tech CSE mid-semester examinations will begin on 12 March.",
+    "instruction": "When are the CSE exams starting?",
+    "output": "The B.Tech CSE mid-semester examinations will begin on 12 March."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The B.Tech CSE mid-semester examinations will begin on 12 March.",
+    "instruction": "What is the exam commencement date?",
+    "output": "The B.Tech CSE mid-semester examinations will begin on 12 March."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The B.Tech CSE mid-semester examinations will begin on 12 March.",
+    "instruction": "When do mid-term exams commence?",
+    "output": "The B.Tech CSE mid-semester examinations will begin on 12 March."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The B.Tech CSE mid-semester examinations will begin on 12 March.",
+    "instruction": "Tell me about CSE exam dates",
+    "output": "The B.Tech CSE mid-semester examinations will begin on 12 March."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The B.Tech semester results will be declared on 20 June.",
+    "instruction": "When will BTech semester results be declared?",
+    "output": "The B.Tech semester results will be declared on 20 June."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The B.Tech semester results will be declared on 20 June.",
+    "instruction": "When are the semester results coming?",
+    "output": "The B.Tech semester results will be declared on 20 June."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The B.Tech semester results will be declared on 20 June.",
+    "instruction": "What is the result declaration date?",
+    "output": "The B.Tech semester results will be declared on 20 June."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The B.Tech semester results will be declared on 20 June.",
+    "instruction": "When will results be announced?",
+    "output": "The B.Tech semester results will be declared on 20 June."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The B.Tech semester results will be declared on 20 June.",
+    "instruction": "Tell me about result dates",
+    "output": "The B.Tech semester results will be declared on 20 June."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The B.Tech semester results will be declared on 20 June.",
+    "instruction": "When will we get our results?",
+    "output": "The B.Tech semester results will be declared on 20 June."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The B.Tech semester results will be declared on 20 June.",
+    "instruction": "What's the result publication date?",
+    "output": "The B.Tech semester results will be declared on 20 June."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The B.Tech semester results will be declared on 20 June.",
+    "instruction": "When are BTech results out?",
+    "output": "The B.Tech semester results will be declared on 20 June."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The B.Tech semester results will be declared on 20 June.",
+    "instruction": "Tell me the result announcement date",
+    "output": "The B.Tech semester results will be declared on 20 June."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The B.Tech semester results will be declared on 20 June.",
+    "instruction": "When are the results expected?",
+    "output": "The B.Tech semester results will be declared on 20 June."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: Students must submit the Machine Learning assignment before 10 April.",
+    "instruction": "What is the deadline for the Machine Learning assignment?",
+    "output": "Students must submit the Machine Learning assignment before 10 April."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: Students must submit the Machine Learning assignment before 10 April.",
+    "instruction": "When should we submit the ML assignment?",
+    "output": "Students must submit the Machine Learning assignment before 10 April."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: Students must submit the Machine Learning assignment before 10 April.",
+    "instruction": "What's the last date for ML assignment?",
+    "output": "Students must submit the Machine Learning assignment before 10 April."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: Students must submit the Machine Learning assignment before 10 April.",
+    "instruction": "When is ML assignment due?",
+    "output": "Students must submit the Machine Learning assignment before 10 April."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: Students must submit the Machine Learning assignment before 10 April.",
+    "instruction": "Tell me the submission deadline for ML assignment",
+    "output": "Students must submit the Machine Learning assignment before 10 April."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: Students must submit the Machine Learning assignment before 10 April.",
+    "instruction": "What's the due date for ML assignment?",
+    "output": "Students must submit the Machine Learning assignment before 10 April."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: Students must submit the Machine Learning assignment before 10 April.",
+    "instruction": "When do we need to submit ML assignment?",
+    "output": "Students must submit the Machine Learning assignment before 10 April."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: Students must submit the Machine Learning assignment before 10 April.",
+    "instruction": "What is the submission date for ML?",
+    "output": "Students must submit the Machine Learning assignment before 10 April."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: Students must submit the Machine Learning assignment before 10 April.",
+    "instruction": "Tell me about ML assignment deadline",
+    "output": "Students must submit the Machine Learning assignment before 10 April."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: Students must submit the Machine Learning assignment before 10 April.",
+    "instruction": "When is the last day to submit ML assignment?",
+    "output": "Students must submit the Machine Learning assignment before 10 April."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The AI Lab for BTech AI&DS students will be held every Wednesday from 2 PM to 5 PM.",
+    "instruction": "When is the AI lab scheduled?",
+    "output": "The AI Lab for BTech AI&DS students will be held every Wednesday from 2 PM to 5 PM."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The AI Lab for BTech AI&DS students will be held every Wednesday from 2 PM to 5 PM.",
+    "instruction": "What time is the AI lab?",
+    "output": "The AI Lab for BTech AI&DS students will be held every Wednesday from 2 PM to 5 PM."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The AI Lab for BTech AI&DS students will be held every Wednesday from 2 PM to 5 PM.",
+    "instruction": "What are the AI lab timings?",
+    "output": "The AI Lab for BTech AI&DS students will be held every Wednesday from 2 PM to 5 PM."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The AI Lab for BTech AI&DS students will be held every Wednesday from 2 PM to 5 PM.",
+    "instruction": "Which day is AI lab?",
+    "output": "The AI Lab for BTech AI&DS students will be held every Wednesday from 2 PM to 5 PM."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The AI Lab for BTech AI&DS students will be held every Wednesday from 2 PM to 5 PM.",
+    "instruction": "Tell me about AI lab schedule",
+    "output": "The AI Lab for BTech AI&DS students will be held every Wednesday from 2 PM to 5 PM."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The AI Lab for BTech AI&DS students will be held every Wednesday from 2 PM to 5 PM.",
+    "instruction": "When does AI lab meet?",
+    "output": "The AI Lab for BTech AI&DS students will be held every Wednesday from 2 PM to 5 PM."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The AI Lab for BTech AI&DS students will be held every Wednesday from 2 PM to 5 PM.",
+    "instruction": "What's the timing for AI lab?",
+    "output": "The AI Lab for BTech AI&DS students will be held every Wednesday from 2 PM to 5 PM."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The AI Lab for BTech AI&DS students will be held every Wednesday from 2 PM to 5 PM.",
+    "instruction": "Is AI lab every Wednesday?",
+    "output": "The AI Lab for BTech AI&DS students will be held every Wednesday from 2 PM to 5 PM."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The AI Lab for BTech AI&DS students will be held every Wednesday from 2 PM to 5 PM.",
+    "instruction": "Tell me the AI lab day and time",
+    "output": "The AI Lab for BTech AI&DS students will be held every Wednesday from 2 PM to 5 PM."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The AI Lab for BTech AI&DS students will be held every Wednesday from 2 PM to 5 PM.",
+    "instruction": "What are the lab hours for AI?",
+    "output": "The AI Lab for BTech AI&DS students will be held every Wednesday from 2 PM to 5 PM."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: A workshop on Generative AI will be conducted on 18 March for CSE students.",
+    "instruction": "When is the Generative AI workshop?",
+    "output": "A workshop on Generative AI will be conducted on 18 March for CSE students."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: A workshop on Generative AI will be conducted on 18 March for CSE students.",
+    "instruction": "Is there an AI workshop announced?",
+    "output": "A workshop on Generative AI will be conducted on 18 March for CSE students."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: A workshop on Generative AI will be conducted on 18 March for CSE students.",
+    "instruction": "What is the date for GenAI workshop?",
+    "output": "A workshop on Generative AI will be conducted on 18 March for CSE students."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: A workshop on Generative AI will be conducted on 18 March for CSE students.",
+    "instruction": "When is the AI workshop happening?",
+    "output": "A workshop on Generative AI will be conducted on 18 March for CSE students."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: A workshop on Generative AI will be conducted on 18 March for CSE students.",
+    "instruction": "Tell me about the Generative AI workshop",
+    "output": "A workshop on Generative AI will be conducted on 18 March for CSE students."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: A workshop on Generative AI will be conducted on 18 March for CSE students.",
+    "instruction": "What's the schedule for AI workshop?",
+    "output": "A workshop on Generative AI will be conducted on 18 March for CSE students."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: A workshop on Generative AI will be conducted on 18 March for CSE students.",
+    "instruction": "Is there a GenAI workshop for CSE?",
+    "output": "A workshop on Generative AI will be conducted on 18 March for CSE students."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: A workshop on Generative AI will be conducted on 18 March for CSE students.",
+    "instruction": "When will the AI workshop take place?",
+    "output": "A workshop on Generative AI will be conducted on 18 March for CSE students."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: A workshop on Generative AI will be conducted on 18 March for CSE students.",
+    "instruction": "Tell me the date of GenAI workshop",
+    "output": "A workshop on Generative AI will be conducted on 18 March for CSE students."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: A workshop on Generative AI will be conducted on 18 March for CSE students.",
+    "instruction": "What's happening on 18 March for CSE?",
+    "output": "A workshop on Generative AI will be conducted on 18 March for CSE students."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: A placement drive by Infosys will be conducted on 25 April for final year students.",
+    "instruction": "When is the Infosys placement drive?",
+    "output": "A placement drive by Infosys will be conducted on 25 April for final year students."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: A placement drive by Infosys will be conducted on 25 April for final year students.",
+    "instruction": "Is there a placement drive announced?",
+    "output": "A placement drive by Infosys will be conducted on 25 April for final year students."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: A placement drive by Infosys will be conducted on 25 April for final year students.",
+    "instruction": "When is Infosys coming for placements?",
+    "output": "A placement drive by Infosys will be conducted on 25 April for final year students."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: A placement drive by Infosys will be conducted on 25 April for final year students.",
+    "instruction": "Tell me about the Infosys placement",
+    "output": "A placement drive by Infosys will be conducted on 25 April for final year students."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: A placement drive by Infosys will be conducted on 25 April for final year students.",
+    "instruction": "What's the date for Infosys drive?",
+    "output": "A placement drive by Infosys will be conducted on 25 April for final year students."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: A placement drive by Infosys will be conducted on 25 April for final year students.",
+    "instruction": "When is the placement drive happening?",
+    "output": "A placement drive by Infosys will be conducted on 25 April for final year students."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: A placement drive by Infosys will be conducted on 25 April for final year students.",
+    "instruction": "Is Infosys visiting campus?",
+    "output": "A placement drive by Infosys will be conducted on 25 April for final year students."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: A placement drive by Infosys will be conducted on 25 April for final year students.",
+    "instruction": "Tell me about upcoming placement drives",
+    "output": "A placement drive by Infosys will be conducted on 25 April for final year students."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: A placement drive by Infosys will be conducted on 25 April for final year students.",
+    "instruction": "What's the schedule for placements?",
+    "output": "A placement drive by Infosys will be conducted on 25 April for final year students."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: A placement drive by Infosys will be conducted on 25 April for final year students.",
+    "instruction": "When can we apply for Infosys?",
+    "output": "A placement drive by Infosys will be conducted on 25 April for final year students."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: Course registration for the next semester will begin on 10 July.",
+    "instruction": "When does course registration start?",
+    "output": "Course registration for the next semester will begin on 10 July."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: Course registration for the next semester will begin on 10 July.",
+    "instruction": "When can we register for next semester courses?",
+    "output": "Course registration for the next semester will begin on 10 July."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: Course registration for the next semester will begin on 10 July.",
+    "instruction": "What is the registration start date?",
+    "output": "Course registration for the next semester will begin on 10 July."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: Course registration for the next semester will begin on 10 July.",
+    "instruction": "When does registration open?",
+    "output": "Course registration for the next semester will begin on 10 July."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: Course registration for the next semester will begin on 10 July.",
+    "instruction": "Tell me about course registration dates",
+    "output": "Course registration for the next semester will begin on 10 July."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: Course registration for the next semester will begin on 10 July.",
+    "instruction": "When is the registration period?",
+    "output": "Course registration for the next semester will begin on 10 July."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: Course registration for the next semester will begin on 10 July.",
+    "instruction": "What's the registration start date?",
+    "output": "Course registration for the next semester will begin on 10 July."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: Course registration for the next semester will begin on 10 July.",
+    "instruction": "When can we select courses?",
+    "output": "Course registration for the next semester will begin on 10 July."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: Course registration for the next semester will begin on 10 July.",
+    "instruction": "Tell me the registration schedule",
+    "output": "Course registration for the next semester will begin on 10 July."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: Course registration for the next semester will begin on 10 July.",
+    "instruction": "When does next semester registration start?",
+    "output": "Course registration for the next semester will begin on 10 July."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: Final year project submissions must be completed before 30 April.",
+    "instruction": "What is the final year project submission deadline?",
+    "output": "Final year project submissions must be completed before 30 April."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: Final year project submissions must be completed before 30 April.",
+    "instruction": "When should we submit the final year project?",
+    "output": "Final year project submissions must be completed before 30 April."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: Final year project submissions must be completed before 30 April.",
+    "instruction": "What's the last date for final year project?",
+    "output": "Final year project submissions must be completed before 30 April."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: Final year project submissions must be completed before 30 April.",
+    "instruction": "When is final year project due?",
+    "output": "Final year project submissions must be completed before 30 April."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: Final year project submissions must be completed before 30 April.",
+    "instruction": "Tell me about project submission deadline",
+    "output": "Final year project submissions must be completed before 30 April."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: Final year project submissions must be completed before 30 April.",
+    "instruction": "What's the project submission date?",
+    "output": "Final year project submissions must be completed before 30 April."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: Final year project submissions must be completed before 30 April.",
+    "instruction": "When do we need to submit our project?",
+    "output": "Final year project submissions must be completed before 30 April."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: Final year project submissions must be completed before 30 April.",
+    "instruction": "What is the deadline for final year project?",
+    "output": "Final year project submissions must be completed before 30 April."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: Final year project submissions must be completed before 30 April.",
+    "instruction": "Tell me the final year project due date",
+    "output": "Final year project submissions must be completed before 30 April."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: Final year project submissions must be completed before 30 April.",
+    "instruction": "When is the last day for project submission?",
+    "output": "Final year project submissions must be completed before 30 April."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: A cybersecurity hackathon will be conducted on 5 May for students.",
+    "instruction": "When is the cybersecurity hackathon?",
+    "output": "A cybersecurity hackathon will be conducted on 5 May for students."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: A cybersecurity hackathon will be conducted on 5 May for students.",
+    "instruction": "Is there any hackathon announced?",
+    "output": "A cybersecurity hackathon will be conducted on 5 May for students."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: A cybersecurity hackathon will be conducted on 5 May for students.",
+    "instruction": "What is the date for cybersecurity hackathon?",
+    "output": "A cybersecurity hackathon will be conducted on 5 May for students."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: A cybersecurity hackathon will be conducted on 5 May for students.",
+    "instruction": "When is the hackathon happening?",
+    "output": "A cybersecurity hackathon will be conducted on 5 May for students."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: A cybersecurity hackathon will be conducted on 5 May for students.",
+    "instruction": "Tell me about the cybersecurity event",
+    "output": "A cybersecurity hackathon will be conducted on 5 May for students."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: A cybersecurity hackathon will be conducted on 5 May for students.",
+    "instruction": "What's the hackathon schedule?",
+    "output": "A cybersecurity hackathon will be conducted on 5 May for students."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: A cybersecurity hackathon will be conducted on 5 May for students.",
+    "instruction": "Is there a cybersecurity event coming up?",
+    "output": "A cybersecurity hackathon will be conducted on 5 May for students."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: A cybersecurity hackathon will be conducted on 5 May for students.",
+    "instruction": "When can I participate in hackathon?",
+    "output": "A cybersecurity hackathon will be conducted on 5 May for students."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: A cybersecurity hackathon will be conducted on 5 May for students.",
+    "instruction": "Tell me the hackathon date",
+    "output": "A cybersecurity hackathon will be conducted on 5 May for students."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: A cybersecurity hackathon will be conducted on 5 May for students.",
+    "instruction": "What's happening on 5 May?",
+    "output": "A cybersecurity hackathon will be conducted on 5 May for students."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: A guest lecture on Artificial Intelligence will be conducted on 22 March.",
+    "instruction": "When is the AI guest lecture?",
+    "output": "A guest lecture on Artificial Intelligence will be conducted on 22 March."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: A guest lecture on Artificial Intelligence will be conducted on 22 March.",
+    "instruction": "Is there a guest lecture scheduled?",
+    "output": "A guest lecture on Artificial Intelligence will be conducted on 22 March."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: A guest lecture on Artificial Intelligence will be conducted on 22 March.",
+    "instruction": "What is the date for AI guest lecture?",
+    "output": "A guest lecture on Artificial Intelligence will be conducted on 22 March."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: A guest lecture on Artificial Intelligence will be conducted on 22 March.",
+    "instruction": "When is the guest lecture happening?",
+    "output": "A guest lecture on Artificial Intelligence will be conducted on 22 March."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: A guest lecture on Artificial Intelligence will be conducted on 22 March.",
+    "instruction": "Tell me about the AI guest lecture",
+    "output": "A guest lecture on Artificial Intelligence will be conducted on 22 March."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: A guest lecture on Artificial Intelligence will be conducted on 22 March.",
+    "instruction": "What's the schedule for guest lecture?",
+    "output": "A guest lecture on Artificial Intelligence will be conducted on 22 March."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: A guest lecture on Artificial Intelligence will be conducted on 22 March.",
+    "instruction": "Is there an AI lecture coming up?",
+    "output": "A guest lecture on Artificial Intelligence will be conducted on 22 March."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: A guest lecture on Artificial Intelligence will be conducted on 22 March.",
+    "instruction": "When can we attend the AI lecture?",
+    "output": "A guest lecture on Artificial Intelligence will be conducted on 22 March."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: A guest lecture on Artificial Intelligence will be conducted on 22 March.",
+    "instruction": "Tell me the guest lecture date",
+    "output": "A guest lecture on Artificial Intelligence will be conducted on 22 March."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: A guest lecture on Artificial Intelligence will be conducted on 22 March.",
+    "instruction": "What's happening on 22 March?",
+    "output": "A guest lecture on Artificial Intelligence will be conducted on 22 March."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The annual tech fest 'TechTrix' will be held from 5 to 7 September.",
+    "instruction": "When is TechTrix happening?",
+    "output": "The annual tech fest 'TechTrix' will be held from 5 to 7 September."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The annual tech fest 'TechTrix' will be held from 5 to 7 September.",
+    "instruction": "What are the dates for TechTrix?",
+    "output": "The annual tech fest 'TechTrix' will be held from 5 to 7 September."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The annual tech fest 'TechTrix' will be held from 5 to 7 September.",
+    "instruction": "When is the tech fest scheduled?",
+    "output": "The annual tech fest 'TechTrix' will be held from 5 to 7 September."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The annual tech fest 'TechTrix' will be held from 5 to 7 September.",
+    "instruction": "Tell me about TechTrix dates",
+    "output": "The annual tech fest 'TechTrix' will be held from 5 to 7 September."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The annual tech fest 'TechTrix' will be held from 5 to 7 September.",
+    "instruction": "When is the college tech fest?",
+    "output": "The annual tech fest 'TechTrix' will be held from 5 to 7 September."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The annual tech fest 'TechTrix' will be held from 5 to 7 September.",
+    "instruction": "What's the schedule for TechTrix?",
+    "output": "The annual tech fest 'TechTrix' will be held from 5 to 7 September."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The annual tech fest 'TechTrix' will be held from 5 to 7 September.",
+    "instruction": "Is TechTrix happening this year?",
+    "output": "The annual tech fest 'TechTrix' will be held from 5 to 7 September."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The annual tech fest 'TechTrix' will be held from 5 to 7 September.",
+    "instruction": "When does TechTrix start?",
+    "output": "The annual tech fest 'TechTrix' will be held from 5 to 7 September."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The annual tech fest 'TechTrix' will be held from 5 to 7 September.",
+    "instruction": "Tell me about the upcoming tech fest",
+    "output": "The annual tech fest 'TechTrix' will be held from 5 to 7 September."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The annual tech fest 'TechTrix' will be held from 5 to 7 September.",
+    "instruction": "What's happening in September?",
+    "output": "The annual tech fest 'TechTrix' will be held from 5 to 7 September."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: Last date for fee payment without fine is 15 August.",
+    "instruction": "When is the last date for fee payment?",
+    "output": "Last date for fee payment without fine is 15 August."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: Last date for fee payment without fine is 15 August.",
+    "instruction": "What's the fee deadline without fine?",
+    "output": "Last date for fee payment without fine is 15 August."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: Last date for fee payment without fine is 15 August.",
+    "instruction": "When should I pay fees without penalty?",
+    "output": "Last date for fee payment without fine is 15 August."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: Last date for fee payment without fine is 15 August.",
+    "instruction": "What is the fee payment deadline?",
+    "output": "Last date for fee payment without fine is 15 August."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: Last date for fee payment without fine is 15 August.",
+    "instruction": "Tell me about fee payment last date",
+    "output": "Last date for fee payment without fine is 15 August."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: Last date for fee payment without fine is 15 August.",
+    "instruction": "When is the last day to pay fees?",
+    "output": "Last date for fee payment without fine is 15 August."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: Last date for fee payment without fine is 15 August.",
+    "instruction": "What's the deadline for fee submission?",
+    "output": "Last date for fee payment without fine is 15 August."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: Last date for fee payment without fine is 15 August.",
+    "instruction": "When can I pay fees without fine?",
+    "output": "Last date for fee payment without fine is 15 August."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: Last date for fee payment without fine is 15 August.",
+    "instruction": "Tell me the fee payment schedule",
+    "output": "Last date for fee payment without fine is 15 August."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: Last date for fee payment without fine is 15 August.",
+    "instruction": "What's the last date for fees?",
+    "output": "Last date for fee payment without fine is 15 August."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The university will remain closed on 2 October for Gandhi Jayanti.",
+    "instruction": "Will MIT WPU be closed on Gandhi Jayanti?",
+    "output": "The university will remain closed on 2 October for Gandhi Jayanti."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The university will remain closed on 2 October for Gandhi Jayanti.",
+    "instruction": "Is there a holiday on 2 October?",
+    "output": "The university will remain closed on 2 October for Gandhi Jayanti."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The university will remain closed on 2 October for Gandhi Jayanti.",
+    "instruction": "Is 2 October a holiday?",
+    "output": "The university will remain closed on 2 October for Gandhi Jayanti."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The university will remain closed on 2 October for Gandhi Jayanti.",
+    "instruction": "What's happening on 2 October?",
+    "output": "The university will remain closed on 2 October for Gandhi Jayanti."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The university will remain closed on 2 October for Gandhi Jayanti.",
+    "instruction": "Tell me about the holiday on 2 October",
+    "output": "The university will remain closed on 2 October for Gandhi Jayanti."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The university will remain closed on 2 October for Gandhi Jayanti.",
+    "instruction": "Will classes be held on 2 October?",
+    "output": "The university will remain closed on 2 October for Gandhi Jayanti."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The university will remain closed on 2 October for Gandhi Jayanti.",
+    "instruction": "Is Gandhi Jayanti a holiday?",
+    "output": "The university will remain closed on 2 October for Gandhi Jayanti."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The university will remain closed on 2 October for Gandhi Jayanti.",
+    "instruction": "What's the schedule for 2 October?",
+    "output": "The university will remain closed on 2 October for Gandhi Jayanti."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The university will remain closed on 2 October for Gandhi Jayanti.",
+    "instruction": "Is 2 October a working day?",
+    "output": "The university will remain closed on 2 October for Gandhi Jayanti."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The university will remain closed on 2 October for Gandhi Jayanti.",
+    "instruction": "Will the university be open on 2 October?",
+    "output": "The university will remain closed on 2 October for Gandhi Jayanti."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The library will remain open till 8 PM during exam days.",
+    "instruction": "What are library timings during exams?",
+    "output": "The library will remain open till 8 PM during exam days."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The library will remain open till 8 PM during exam days.",
+    "instruction": "When does library close during exams?",
+    "output": "The library will remain open till 8 PM during exam days."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The library will remain open till 8 PM during exam days.",
+    "instruction": "Is library open longer during exams?",
+    "output": "The library will remain open till 8 PM during exam days."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The library will remain open till 8 PM during exam days.",
+    "instruction": "What time does library close?",
+    "output": "The library will remain open till 8 PM during exam days."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The library will remain open till 8 PM during exam days.",
+    "instruction": "Tell me about library hours",
+    "output": "The library will remain open till 8 PM during exam days."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The library will remain open till 8 PM during exam days.",
+    "instruction": "When is library open until?",
+    "output": "The library will remain open till 8 PM during exam days."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The library will remain open till 8 PM during exam days.",
+    "instruction": "What are extended library hours?",
+    "output": "The library will remain open till 8 PM during exam days."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The library will remain open till 8 PM during exam days.",
+    "instruction": "Is library open until 8 PM?",
+    "output": "The library will remain open till 8 PM during exam days."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The library will remain open till 8 PM during exam days.",
+    "instruction": "Tell me exam period library timings",
+    "output": "The library will remain open till 8 PM during exam days."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The library will remain open till 8 PM during exam days.",
+    "instruction": "What's the library schedule?",
+    "output": "The library will remain open till 8 PM during exam days."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The sports meet will be conducted on 20 December for all students.",
+    "instruction": "When is the sports meet?",
+    "output": "The sports meet will be conducted on 20 December for all students."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The sports meet will be conducted on 20 December for all students.",
+    "instruction": "What is the sports meet date?",
+    "output": "The sports meet will be conducted on 20 December for all students."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The sports meet will be conducted on 20 December for all students.",
+    "instruction": "When is the annual sports event?",
+    "output": "The sports meet will be conducted on 20 December for all students."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The sports meet will be conducted on 20 December for all students.",
+    "instruction": "Tell me about sports meet schedule",
+    "output": "The sports meet will be conducted on 20 December for all students."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The sports meet will be conducted on 20 December for all students.",
+    "instruction": "When is the sports competition?",
+    "output": "The sports meet will be conducted on 20 December for all students."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The sports meet will be conducted on 20 December for all students.",
+    "instruction": "What's happening on 20 December?",
+    "output": "The sports meet will be conducted on 20 December for all students."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The sports meet will be conducted on 20 December for all students.",
+    "instruction": "Is there a sports event this month?",
+    "output": "The sports meet will be conducted on 20 December for all students."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The sports meet will be conducted on 20 December for all students.",
+    "instruction": "When can I participate in sports?",
+    "output": "The sports meet will be conducted on 20 December for all students."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The sports meet will be conducted on 20 December for all students.",
+    "instruction": "Tell me about the upcoming sports event",
+    "output": "The sports meet will be conducted on 20 December for all students."
+  },
+  {
+    "type": "rag",
+    "context": "MIT WPU Notice: The sports meet will be conducted on 20 December for all students.",
+    "instruction": "What's the sports meet schedule?",
+    "output": "The sports meet will be conducted on 20 December for all students."
+  }
+]
